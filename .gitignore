@@ -1,3 +1,7 @@
+# meus ignores 
+.vscode/*
+
+
 # Logs
 logs
 *.log
